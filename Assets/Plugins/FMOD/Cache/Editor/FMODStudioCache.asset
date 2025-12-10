@@ -1,0 +1,398 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8059556533677249670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Fruta_impacto
+  m_EditorClassIdentifier: 
+  Path: event:/Fruta_impacto
+  Guid:
+    Data1: -912628650
+    Data2: 1324922655
+    Data3: -503013206
+    Data4: 1384497684
+  Banks:
+  - {fileID: -7596081240976260670}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 840
+--- !u!114 &-7864164044509814889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sonido_ambiente
+  m_EditorClassIdentifier: 
+  Path: event:/Sonido_ambiente
+  Guid:
+    Data1: -908677404
+    Data2: 1296177974
+    Data3: 1596814746
+    Data4: 686991871
+  Banks:
+  - {fileID: 5476028953611814334}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 43598
+--- !u!114 &-7596081240976260670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../Documents/all facu shit/tecno2/CUATRIDOS/fmodproy/fmod_proyecto_tecno/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 639003765984894477
+  FileSizes:
+  - Name: Desktop
+    Value: 538688
+  Exists: 1
+--- !u!114 &-7385354621662322810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../Users/MicroHard/Documents/all facu shit/tecno2/CUATRIDOS/fmodproy/fmod_proyecto_tecno/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 639003765984904450
+  FileSizes:
+  - Name: Desktop
+    Value: 886
+  Exists: 1
+--- !u!114 &-4480517931977808029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Fruta_impacto
+  m_EditorClassIdentifier: 
+  Path: event:/Fruta_impacto
+  Guid:
+    Data1: -912628650
+    Data2: 1324922655
+    Data3: -503013206
+    Data4: 1384497684
+  Banks:
+  - {fileID: 5476028953611814334}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 840
+--- !u!114 &-1168622413112152648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Fruta_impacto
+  m_EditorClassIdentifier: 
+  Path: event:/Fruta_impacto
+  Guid:
+    Data1: -912628650
+    Data2: 1324922655
+    Data3: -503013206
+    Data4: 1384497684
+  Banks:
+  - {fileID: 1585776180363544382}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 840
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -7385354621662322810}
+  - {fileID: 1585776180363544382}
+  EditorEvents:
+  - {fileID: -1168622413112152648}
+  - {fileID: 9016101137443923288}
+  - {fileID: 2885085813559838626}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 1585776180363544382}
+  StringsBanks:
+  - {fileID: -7385354621662322810}
+  cacheVersion: 131849
+  cacheTime: 639003765984904450
+  SerializableEventsDict:
+  - key: event:/Fruta_impacto
+    index: 0
+  - key: event:/Fruta_lanzamiento
+    index: 1
+  - key: event:/Sonido_ambiente
+    index: 2
+--- !u!114 &902847657064471749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: D:/FMOD PROJECTS/fmod_proyecto_tecno/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 639003765984904450
+  FileSizes:
+  - Name: Desktop
+    Value: 886
+  Exists: 1
+--- !u!114 &1585776180363544382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../Users/MicroHard/Documents/all facu shit/tecno2/CUATRIDOS/fmodproy/fmod_proyecto_tecno/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 639003765984894477
+  FileSizes:
+  - Name: Desktop
+    Value: 538688
+  Exists: 1
+--- !u!114 &1703687552276410529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../Documents/all facu shit/tecno2/CUATRIDOS/fmodproy/fmod_proyecto_tecno/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 639003765984904450
+  FileSizes:
+  - Name: Desktop
+    Value: 886
+  Exists: 1
+--- !u!114 &2885085813559838626
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sonido_ambiente
+  m_EditorClassIdentifier: 
+  Path: event:/Sonido_ambiente
+  Guid:
+    Data1: -908677404
+    Data2: 1296177974
+    Data3: 1596814746
+    Data4: 686991871
+  Banks:
+  - {fileID: 1585776180363544382}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 43598
+--- !u!114 &3244476318783676874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Fruta_lanzamiento
+  m_EditorClassIdentifier: 
+  Path: event:/Fruta_lanzamiento
+  Guid:
+    Data1: 500488814
+    Data2: 1331779450
+    Data3: -633280113
+    Data4: 764111182
+  Banks:
+  - {fileID: 5476028953611814334}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 528
+--- !u!114 &3829299856101007067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Fruta_lanzamiento
+  m_EditorClassIdentifier: 
+  Path: event:/Fruta_lanzamiento
+  Guid:
+    Data1: 500488814
+    Data2: 1331779450
+    Data3: -633280113
+    Data4: 764111182
+  Banks:
+  - {fileID: -7596081240976260670}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 528
+--- !u!114 &5299372304708387581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sonido_ambiente
+  m_EditorClassIdentifier: 
+  Path: event:/Sonido_ambiente
+  Guid:
+    Data1: -908677404
+    Data2: 1296177974
+    Data3: 1596814746
+    Data4: 686991871
+  Banks:
+  - {fileID: -7596081240976260670}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 43598
+--- !u!114 &5476028953611814334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: D:/FMOD PROJECTS/fmod_proyecto_tecno/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 639003765984894477
+  FileSizes:
+  - Name: Desktop
+    Value: 538688
+  Exists: 1
+--- !u!114 &9016101137443923288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Fruta_lanzamiento
+  m_EditorClassIdentifier: 
+  Path: event:/Fruta_lanzamiento
+  Guid:
+    Data1: 500488814
+    Data2: 1331779450
+    Data3: -633280113
+    Data4: 764111182
+  Banks:
+  - {fileID: 1585776180363544382}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 528
