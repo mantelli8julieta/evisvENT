@@ -1,0 +1,4 @@
+repository "tecno2/evisvCamTest2@4674132504993@cloud"
+  path "/"
+    br "/main"
+    co "/main"
